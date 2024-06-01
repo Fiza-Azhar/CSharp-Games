@@ -1,0 +1,17 @@
+D:\C# Programs\Games\Jack Run\Jack Run\bin\Debug\Jack Run.exe.config
+D:\C# Programs\Games\Jack Run\Jack Run\bin\Debug\Jack Run.exe
+D:\C# Programs\Games\Jack Run\Jack Run\bin\Debug\Jack Run.pdb
+D:\C# Programs\Games\Jack Run\Jack Run\obj\Debug\Jack Run.csproj.AssemblyReference.cache
+D:\C# Programs\Games\Jack Run\Jack Run\obj\Debug\Jack_Run.Properties.Resources.resources
+D:\C# Programs\Games\Jack Run\Jack Run\obj\Debug\Jack Run.csproj.GenerateResource.cache
+D:\C# Programs\Games\Jack Run\Jack Run\obj\Debug\Jack Run.csproj.CoreCompileInputs.cache
+D:\C# Programs\Games\Jack Run\Jack Run\obj\Debug\Jack Run.exe
+D:\C# Programs\Games\Jack Run\Jack Run\obj\Debug\Jack Run.pdb
+D:\C# Programs\Games\Jack Run\Jack Run\obj\Debug\Jack_Run.Info.resources
+D:\C# Programs\Games\Jack Run\Jack Run\obj\Debug\Jack_Run.Menu.resources
+D:\C# Programs\Games\Jack Run\Jack Run\bin\Debug\EZInput.dll
+D:\C# Programs\Games\Jack Run\Jack Run\bin\Debug\EZInput.xml
+D:\C# Programs\Games\Jack Run\Jack Run\obj\Debug\Jack_Run.Jack_Run.resources
+D:\C# Programs\Games\Jack Run\Jack Run\obj\Debug\Jack Run.csproj.CopyComplete
+D:\C# Programs\Games\Jack Run\Jack Run\obj\Debug\Jack_Run.LevelUp.resources
+D:\C# Programs\Games\Jack Run\Jack Run\obj\Debug\Jack_Run.GameOver.resources

@@ -1,0 +1,13 @@
+D:\C# Programs\Games\FrameWork\framework\Consumer\bin\Debug\Consumer.exe.config
+D:\C# Programs\Games\FrameWork\framework\Consumer\bin\Debug\Consumer.exe
+D:\C# Programs\Games\FrameWork\framework\Consumer\bin\Debug\Consumer.pdb
+D:\C# Programs\Games\FrameWork\framework\Consumer\bin\Debug\Frame.dll
+D:\C# Programs\Games\FrameWork\framework\Consumer\bin\Debug\Frame.pdb
+D:\C# Programs\Games\FrameWork\framework\Consumer\obj\Debug\Consumer.csproj.AssemblyReference.cache
+D:\C# Programs\Games\FrameWork\framework\Consumer\obj\Debug\Consumer.Properties.Resources.resources
+D:\C# Programs\Games\FrameWork\framework\Consumer\obj\Debug\Consumer.csproj.GenerateResource.cache
+D:\C# Programs\Games\FrameWork\framework\Consumer\obj\Debug\Consumer.csproj.CoreCompileInputs.cache
+D:\C# Programs\Games\FrameWork\framework\Consumer\obj\Debug\Consumer.csproj.CopyComplete
+D:\C# Programs\Games\FrameWork\framework\Consumer\obj\Debug\Consumer.exe
+D:\C# Programs\Games\FrameWork\framework\Consumer\obj\Debug\Consumer.pdb
+D:\C# Programs\Games\FrameWork\framework\Consumer\obj\Debug\Consumer.Stage1.resources

@@ -1,0 +1,57 @@
+ if (jump == true && force < 0)
+            {
+                jump = false;
+            }
+            if (jump == true)
+            {
+                pbPlayer.Top -= force;
+                force -= 1;
+
+            }*/
+           /* if (pbPlayer.Top + pbPlayer.Height >= ClientSize.Height)
+            {
+                pbPlayer.Top = ClientSize.Height - pbPlayer.Height;
+                jump = false;
+            }
+            else
+            {
+                pbPlayer.Top += 5;
+            }
+
+            foreach (Control x in this.Controls)
+            {
+
+                if (x is PictureBox && (string)x.Tag == "platform")
+                {
+
+                    if (pbPlayer.Bounds.IntersectsWith(x.Bounds) && jump == false)
+                    {
+                        force = 8;
+                        pbPlayer.Top = x.Top - pbPlayer.Height;
+                        jumpSpeed = 0;
+                    }
+
+                    x.BringToFront();
+
+                }
+            }*/
+
+           /* private void Jack_Run_Load(object sender, EventArgs e)
+            {
+                this.Controls.Add(pbPlayer);
+            }*/
+            /* if (jump == true)
+    {
+        pbPlayer.Top -= force;
+        force -= 1;
+
+    }
+    if(pbPlayer.Top + pbPlayer.Height >= this.ClientSize.Height)
+    {
+        pbPlayer.Top = ClientSize.Height - pbPlayer.Height;
+        jump = false;
+    }
+    else
+    {
+        pbPlayer.Top += 5;
+    }*/
